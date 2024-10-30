@@ -1,0 +1,1157 @@
+# Copyright (C) 2022 cubecolour
+# This file is distributed under the same license as the Cubecolour Caboodle plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cubecolour Caboodle 0.5.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/cubecolour-"
+"caboodle\n"
+"Last-Translator: \n"
+"Language-Team: English (UK)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-03-23T22:09:54+00:00\n"
+"PO-Revision-Date: 2024-07-11 00:22+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: cubecolour-caboodle\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.7; wp-6.5.2"
+
+#: includes/customizer.php:1133 includes/admin.php:217
+#| msgid "Add \"New\" &amp; \"Beta\" links to the add plugins page"
+msgid "Add \"New\" & \"Beta\" links to the add plugins page"
+msgstr "Add \"New\" & \"Beta\" links to the add plugins page"
+
+#. %1$s: <code>target="_blank"</code>, %2$s: <code>rel="noopener noreferrer nofollow"</code>
+#: includes/customizer.php:1685
+#, php-format
+msgid "Add %1$s and %2$s attributes to external links"
+msgstr "Add %1$s and %2$s attributes to external links"
+
+#: includes/customizer.php:1985 includes/admin.php:322
+msgid "Add a dynamic scroll to top button in the website footer"
+msgstr "Add a dynamic scroll to top button in the website footer"
+
+#: includes/admin.php:297
+#| msgid "Show a file size column in the media library"
+msgid "Add a file size column in the media library"
+msgstr "Add a file size column in the media library"
+
+#: includes/customizer.php:1861
+msgid "Add a file size column in the media library list view"
+msgstr "Add a file size column in the media library list view"
+
+#: includes/admin.php:291
+msgid "Add a lightbox to images and galleries"
+msgstr "Add a lightbox to images and galleries"
+
+#: includes/customizer.php:1830
+msgid ""
+"Add a lightbox to images and galleries (Ensure you set the image or gallery "
+"to link to the media file)"
+msgstr ""
+"Add a lightbox to images and galleries (Ensure you set the image or gallery "
+"to link to the media file)"
+
+#: includes/customizer.php:1326 includes/admin.php:247
+msgid "Add a page slug class to the body tag"
+msgstr "Add a page slug class to the body tag"
+
+#: includes/admin.php:284
+msgid "Add a wavy underline to links within the content"
+msgstr "Add a wavy underline to links within the content"
+
+#: includes/admin.php:277
+msgid "Add an arrow icon to identify external links within the site content"
+msgstr "Add an arrow icon to identify external links within the site content"
+
+#: includes/customizer.php:1515
+msgid "Add an icon to links which direct offsite"
+msgstr "Add an icon to links which direct offsite"
+
+#: includes/customizer.php:1683
+msgid "Add attributes"
+msgstr "Add attributes"
+
+#: includes/customizer.php:1938
+msgid "Add caboodle dashicons"
+msgstr "Add caboodle dashicons"
+
+#: includes/customizer.php:1922 includes/admin.php:308
+msgid "Add dashicons"
+msgstr "Add dashicons"
+
+#: includes/modules/posts-rename-news.php:20
+#: includes/modules/posts-rename-news.php:46
+#: includes/modules/posts-rename-news.php:47
+msgid "Add news article"
+msgstr "Add news article"
+
+#: includes/customizer.php:2997 includes/admin.php:440
+#| msgid "Add styles to forms created with the gravity forms plugin"
+msgid "Add some simple styles to forms created with the gravity forms plugin"
+msgstr "Add some simple styles to forms created with the gravity forms plugin"
+
+#: includes/customizer.php:1424 includes/customizer.php:1455
+#: includes/admin.php:265
+msgid "Add support for manual excerpts to pages"
+msgstr "Add support for manual excerpts to pages"
+
+#: includes/customizer.php:116 includes/customizer.php:132
+#: includes/admin.php:102
+msgid "Additional date & time formats"
+msgstr "Additional date & time formats"
+
+#: includes/customizer.php:1102
+msgid "Adds a link in admin settings menu to view saved options"
+msgstr "Adds a link in admin settings menu to view saved options"
+
+#: includes/customizer.php:612 includes/admin.php:163
+msgid "Adds a simple notepad widget to the dashboard"
+msgstr "Adds a simple notepad widget to the dashboard"
+
+#: includes/customizer.php:117 includes/admin.php:103
+msgid ""
+"Adds new options for date and time formats in the general settings admin page"
+msgstr ""
+"Adds new options for date and time formats in the general settings admin page"
+
+#: includes/customizer.php:641 includes/customizer.php:657
+#: includes/admin.php:168
+msgid "Admin menu order"
+msgstr "Admin menu order"
+
+#: includes/customizer.php:927
+#| msgid "Afternoon Greeting"
+msgid "Afternoon greeting"
+msgstr "Afternoon greeting"
+
+#: includes/modules/posts-rename-news.php:54
+msgid "All news articles"
+msgstr "All news articles"
+
+#: includes/customizer.php:538
+msgid "Also include on frontend"
+msgstr "Also include on frontend"
+
+#. Description of the plugin
+msgid "An agglomeration of useful functions"
+msgstr "An agglomeration of useful functions"
+
+#: includes/customizer.php:2419 includes/customizer.php:2435
+#: includes/admin.php:345
+msgid "Anti clickjack"
+msgstr "Anti clickjack"
+
+#: includes/customizer.php:2387 includes/customizer.php:2403
+#: includes/admin.php:339
+msgid "Anti spambot"
+msgstr "Anti spambot"
+
+#: includes/customizer.php:178 includes/admin.php:116
+msgid "Apply a colored background to the login page"
+msgstr "Apply a coloured background to the login page"
+
+#: includes/initial-values.php:52 includes/customizer.php:422
+#: includes/modules/login-warning.php:21
+msgid "Authorised access only"
+msgstr "Authorised access only"
+
+#: includes/customizer.php:1311 includes/customizer.php:2226
+msgid "Background color"
+msgstr "Background colour"
+
+#: includes/customizer.php:2264
+msgid "Background hover color"
+msgstr "Background hover colour"
+
+#: includes/customizer.php:3032
+msgid "Border color"
+msgstr "Border colour"
+
+#: includes/customizer.php:3070
+msgid "Border color: focus"
+msgstr "Border colour: focus"
+
+#: includes/customizer.php:3051
+msgid "Border color: hover"
+msgstr "Border colour: hover"
+
+#: includes/customizer.php:2134
+msgid "Border radius (%)"
+msgstr "Border radius (%)"
+
+#: includes/customizer.php:2110
+msgid "Border width (px)"
+msgstr "Border width (px)"
+
+#: includes/customizer.php:249
+msgid "Borderless"
+msgstr "Borderless"
+
+#: includes/customizer.php:2842
+msgid "Breakpoint for mobile"
+msgstr "Breakpoint for mobile"
+
+#: includes/customizer.php:2818
+msgid "Breakpoint for tablet"
+msgstr "Breakpoint for tablet"
+
+#: includes/customizer.php:105
+msgid "Caboodle"
+msgstr "Caboodle"
+
+#: includes/customizer.php:1632 includes/customizer.php:2207
+msgid "Color"
+msgstr "Color"
+
+#: includes/customizer.php:1257 includes/admin.php:241
+msgid "Color and background color of selected text"
+msgstr "Colour and background colour of selected text"
+
+#: includes/customizer.php:232
+msgid "Color centre"
+msgstr "Colour centre"
+
+#: includes/customizer.php:213
+msgid "Color left &amp; Right"
+msgstr "Colour left &amp; Right"
+
+#: includes/customizer.php:810
+msgid "Comments"
+msgstr "Comments"
+
+#: includes/customizer.php:2363
+msgid "Copyright from year"
+msgstr "Copyright from year"
+
+#: includes/customizer.php:2327 includes/admin.php:334
+msgid "Copyright years shortcode to use in footer"
+msgstr "Copyright years shortcode to use in footer"
+
+#: includes/customizer.php:1815
+msgid "CSS Selector"
+msgstr "CSS Selector"
+
+#. Author of the plugin
+msgid "cubecolour"
+msgstr "cubecolour"
+
+#. Name of the plugin
+msgid "Cubecolour Caboodle"
+msgstr "Cubecolour Caboodle"
+
+#: includes/admin.php:501
+msgid "Current settings:"
+msgstr "Current settings:"
+
+#: includes/modules/upgrade-current-version.php:11
+msgid "Current Version"
+msgstr "Current Version"
+
+#: includes/admin.php:186
+msgid "Current WP version"
+msgstr "Current WP version"
+
+#: includes/modules/posts-rename-news.php:156
+msgid "Custom field deleted."
+msgstr "Custom field deleted."
+
+#: includes/modules/posts-rename-news.php:155
+msgid "Custom field updated."
+msgstr "Custom field updated."
+
+#: includes/customizer.php:1356 includes/customizer.php:1372
+#: includes/admin.php:252
+msgid "Dash spacing"
+msgstr "Dash spacing"
+
+#: includes/customizer.php:611 includes/customizer.php:627
+#: includes/admin.php:162
+msgid "Dashboard notes"
+msgstr "Dashboard notes"
+
+#: includes/customizer.php:1036 includes/customizer.php:1052
+#: includes/admin.php:204
+msgid "Developer link"
+msgstr "Developer link"
+
+#: includes/customizer.php:1037 includes/admin.php:205
+msgid "Developer link in admin footer and [developer] shortcode for front end"
+msgstr "Developer link in admin footer and [developer] shortcode for front end"
+
+#: includes/customizer.php:1087
+msgid "Developer link URL"
+msgstr "Developer link URL"
+
+#: includes/customizer.php:1070
+msgid "Developer name"
+msgstr "Developer name"
+
+#: includes/initial-values.php:53 includes/customizer.php:440
+#: includes/modules/login-warning.php:21
+msgid ""
+"Disconnect immediately and do not attempt to log in if you are not an "
+"authorised user"
+msgstr ""
+"Disconnect immediately and do not attempt to log in if you are not an "
+"authorised user"
+
+#: includes/customizer.php:463 includes/admin.php:145
+msgid "Display colored bars for visual confirmation of password input"
+msgstr "Display coloured bars for visual confirmation of password input"
+
+#: includes/customizer.php:295 includes/admin.php:127
+#| msgid ""
+#| "Do not expose password characters when entered on iPad, iPhone and android"
+msgid ""
+"Do not expose password characters when entered on iPad, iPhone or android"
+msgstr ""
+"Do not expose password characters when entered on iPad, iPhone or android"
+
+#: includes/admin.php:548
+msgid "Documentation"
+msgstr "Documentation"
+
+#: includes/modules/posts-rename-news.php:48
+msgid "Edit news"
+msgstr "Edit news"
+
+#: includes/customizer.php:2388 includes/admin.php:340
+#| msgid "[email] shortcode to protect email addresses from spambots"
+msgid "email shortcode to help protect email addresses from spambots"
+msgstr "email shortcode to help protect email addresses from spambots"
+
+#: includes/customizer.php:2716 includes/customizer.php:2732
+#: includes/admin.php:400
+msgid "Embed bandcamp"
+msgstr "Embed bandcamp"
+
+#: includes/customizer.php:1907
+msgid "Enable attachment pages"
+msgstr "Enable attachment pages"
+
+#: includes/customizer.php:1485 includes/admin.php:271
+msgid "Enable drop down menus to work more intuitively"
+msgstr "Enable drop down menus to work more intuitively"
+
+#: includes/customizer.php:1892 includes/admin.php:302 includes/admin.php:303
+msgid "Enable media attachment pages"
+msgstr "Enable media attachment pages"
+
+#: includes/admin.php:401
+msgid "Enable support for the [bandcamp] shortcode  generated on bandcamp"
+msgstr "Enable support for the [bandcamp] shortcode  generated on bandcamp"
+
+#: includes/customizer.php:2717
+msgid ""
+"Enable the [bandcamp] shortcode  generated by bandcamp to embed an audio "
+"player"
+msgstr ""
+"Enable the [bandcamp] shortcode  generated by bandcamp to embed an audio "
+"player"
+
+#: includes/customizer.php:362
+msgid "Error message"
+msgstr "Error message"
+
+#: includes/admin.php:620
+msgid "Error: Nonce verification has failed"
+msgstr "Error: Nonce verification has failed"
+
+#: includes/customizer.php:944
+#| msgid "Evening Greeting"
+msgid "Evening greeting"
+msgstr "Evening greeting"
+
+#: includes/customizer.php:2484
+msgid "Except for administrators"
+msgstr "Except for administrators"
+
+#: includes/admin.php:464
+msgid "Export"
+msgstr "Export"
+
+#: includes/admin.php:457
+msgid "Export caboodle settings"
+msgstr "Export caboodle settings"
+
+#: includes/admin.php:459
+msgid "Export the current plugin settings as a .json file."
+msgstr "Export the current plugin settings as a .json file."
+
+#: includes/customizer.php:1923 includes/admin.php:309
+msgid "Extend dashicons with new icons"
+msgstr "Extend dashicons with new icons"
+
+#: includes/customizer.php:377 includes/admin.php:139
+msgid "Extra text added to login form"
+msgstr "Extra text added to login form"
+
+#: includes/modules/media-file-size.php:25
+msgid "File Size"
+msgstr "File Size"
+
+#: includes/customizer.php:2278 includes/customizer.php:2294
+#: includes/admin.php:327
+msgid "Fix footer"
+msgstr "Fix footer"
+
+#: includes/customizer.php:2279 includes/admin.php:328
+msgid "Fix the footer element to the bottom of the viewport on short pages"
+msgstr "Fix the footer element to the bottom of the viewport on short pages"
+
+#: includes/customizer.php:2901
+msgid "Flag width px"
+msgstr "Flag width px"
+
+#: includes/customizer.php:2312
+msgid "Footer element to fix"
+msgstr "Footer element to fix"
+
+#: includes/customizer.php:2326 includes/admin.php:333
+msgid "Footer years range"
+msgstr "Footer years range"
+
+#: includes/customizer.php:1194 includes/customizer.php:1210
+#: includes/admin.php:228
+msgid "Force vertical scrollbar"
+msgstr "Force vertical scrollbar"
+
+#: includes/customizer.php:1792
+msgid "Gap (px)"
+msgstr "Gap (px)"
+
+#: includes/initial-values.php:69 includes/customizer.php:953
+#: includes/modules/no-howdy.php:77
+msgid "Go to bed"
+msgstr "Go to bed"
+
+#: includes/initial-values.php:66 includes/customizer.php:919
+#: includes/modules/no-howdy.php:73
+#| msgid "Good Afternoon"
+msgid "Good afternoon"
+msgstr "Good afternoon"
+
+#: includes/initial-values.php:67 includes/customizer.php:936
+#: includes/modules/no-howdy.php:75
+#| msgid "Good Evening"
+msgid "Good evening"
+msgstr "Good evening"
+
+#: includes/initial-values.php:68 includes/customizer.php:902
+#: includes/modules/no-howdy.php:71
+#| msgid "Good Morning"
+msgid "Good morning"
+msgstr "Good morning"
+
+#: includes/customizer.php:3012
+msgid "Gravity forms"
+msgstr "Gravity forms"
+
+#: includes/customizer.php:2996 includes/admin.php:439
+msgid "Gravity forms style"
+msgstr "Gravity forms style"
+
+#: includes/customizer.php:2925
+msgid "Grayscale %"
+msgstr "Grayscale %"
+
+#: includes/customizer.php:1774
+msgid "Hover Color"
+msgstr "Hover Color"
+
+#: includes/customizer.php:1651 includes/customizer.php:2245
+msgid "Hover color"
+msgstr "Hover colour"
+
+#. Author URI of the plugin
+msgid "https://cubecolour.co.uk/"
+msgstr "https://cubecolour.co.uk/"
+
+#: includes/customizer.php:1551 includes/customizer.php:2021
+msgid "Icon"
+msgstr "Icon"
+
+#: includes/customizer.php:2062
+msgid "Icon size (px)"
+msgstr "Icon size (px)"
+
+#: includes/modules/show-ids.php:9
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin.php:481
+msgid "Import"
+msgstr "Import"
+
+#: includes/admin.php:471
+msgid "Import caboodle settings"
+msgstr "Import caboodle settings"
+
+#: includes/admin.php:473
+msgid "Import the plugin settings from a .json file."
+msgstr "Import the plugin settings from a .json file."
+
+#: includes/admin.php:451
+msgid "Import/export"
+msgstr "Import/export"
+
+#: includes/customizer.php:354 includes/modules/login-error-message.php:11
+msgid "Incorrect credentials"
+msgstr "Incorrect credentials"
+
+#: includes/initial-values.php:49
+msgid "Incorrect details input"
+msgstr "Incorrect details input"
+
+#: includes/customizer.php:1514 includes/customizer.php:1531
+#: includes/admin.php:276
+msgid "Indicate external links"
+msgstr "Indicate external links"
+
+#: includes/modules/media-file-size.php:81
+msgid "Invalid nonce. Please refresh the page and try again."
+msgstr "Invalid nonce. Please refresh the page and try again."
+
+#: includes/customizer.php:1409
+msgid "Keep posts"
+msgstr "Keep posts"
+
+#: includes/customizer.php:1829 includes/customizer.php:1845
+#: includes/admin.php:290
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: includes/customizer.php:991 includes/admin.php:198
+msgid "Limit revisions"
+msgstr "Limit revisions"
+
+#: includes/customizer.php:976 includes/admin.php:199
+msgid "Limit the number of saved revisions"
+msgstr "Limit the number of saved revisions"
+
+#: includes/customizer.php:828
+msgid "Links"
+msgstr "Links"
+
+#: includes/admin.php:211
+msgid ""
+"List the WordPress options with their values from the admin settings menu"
+msgstr ""
+"List the WordPress options with their values from the admin settings menu"
+
+#: includes/customizer.php:177 includes/customizer.php:193
+msgid "Login Background"
+msgstr "Login Background"
+
+#: includes/admin.php:115
+msgid "Login background"
+msgstr "Login background"
+
+#: includes/customizer.php:376 includes/customizer.php:392
+#: includes/admin.php:138
+msgid "Login warning message"
+msgstr "Login warning message"
+
+#: includes/customizer.php:294 includes/customizer.php:310
+#: includes/admin.php:126
+msgid "Mask password"
+msgstr "Mask password"
+
+#: includes/customizer.php:756
+msgid "Media"
+msgstr "Media"
+
+#: includes/customizer.php:1891
+msgid "Media attachment pages"
+msgstr "Media attachment pages"
+
+#: includes/customizer.php:448
+msgid "Message"
+msgstr "Message"
+
+#: includes/customizer.php:552 includes/admin.php:151
+msgid "Modify the view site link in admin to open in a new browser tab"
+msgstr "Modify the view site link in admin to open in a new browser tab"
+
+#: includes/admin.php:95
+msgid "Modules"
+msgstr "Modules"
+
+#: includes/customizer.php:910
+#| msgid "Morning Greeting"
+msgid "Morning greeting"
+msgstr "Morning greeting"
+
+#: includes/customizer.php:263 includes/admin.php:121
+msgid "Must log in by username, not by email address"
+msgstr "Must log in by username, not by email address"
+
+#: includes/customizer.php:1132 includes/customizer.php:1148
+#: includes/admin.php:216
+msgid "New plugins"
+msgstr "New plugins"
+
+#: includes/modules/posts-rename-news.php:16
+#: includes/modules/posts-rename-news.php:19
+#: includes/modules/posts-rename-news.php:44
+#: includes/modules/posts-rename-news.php:49
+#: includes/modules/posts-rename-news.php:55
+#: includes/modules/posts-rename-news.php:56
+#: includes/modules/posts-rename-news.php:72
+msgid "News"
+msgstr "News"
+
+#: includes/modules/posts-rename-news.php:45
+msgid "News article"
+msgstr "News article"
+
+#: includes/modules/posts-rename-news.php:116
+msgid "News article published."
+msgstr "News article published."
+
+#: includes/modules/posts-rename-news.php:96
+msgid "News article restored to revision from"
+msgstr "News article restored to revision from"
+
+#: includes/modules/posts-rename-news.php:160
+msgid "News article saved."
+msgstr "News article saved."
+
+#: includes/modules/posts-rename-news.php:134
+msgid "News article scheduled for:"
+msgstr "News article scheduled for:"
+
+#: includes/modules/posts-rename-news.php:125
+msgid "News article submitted."
+msgstr "News article submitted."
+
+#: includes/modules/posts-rename-news.php:157
+msgid "News article updated."
+msgstr "News article updated."
+
+#: includes/modules/posts-rename-news.php:144
+msgid "News draft updated."
+msgstr "News draft updated."
+
+#: includes/modules/posts-rename-news.php:21
+msgid "News tags"
+msgstr "News tags"
+
+#: includes/modules/posts-rename-news.php:107
+msgid "News updated."
+msgstr "News updated."
+
+#: includes/customizer.php:961
+#| msgid "Night Greeting"
+msgid "Night greeting"
+msgstr "Night greeting"
+
+#: includes/customizer.php:2450 includes/customizer.php:2466
+#: includes/admin.php:351
+msgid "No admin bar"
+msgstr "No admin bar"
+
+#: includes/customizer.php:2451
+msgid "No admin bar on the front end for logged-in users"
+msgstr "No admin bar on the front end for logged-in users"
+
+#: includes/customizer.php:2530 includes/customizer.php:2546
+#: includes/admin.php:363
+msgid "No author archives"
+msgstr "No author archives"
+
+#: includes/customizer.php:672 includes/customizer.php:690
+#: includes/admin.php:174
+#| msgid "Show avatars"
+msgid "No avatars"
+msgstr "No avatars"
+
+#: includes/customizer.php:2623 includes/customizer.php:2639
+#: includes/admin.php:382
+msgid "No feeds"
+msgstr "No feeds"
+
+#: includes/customizer.php:2499 includes/customizer.php:2515
+#: includes/admin.php:357
+msgid "No file editors"
+msgstr "No file editors"
+
+#: includes/admin.php:352
+msgid "No front end admin bar for logged in users"
+msgstr "No front end admin bar for logged in users"
+
+#: includes/customizer.php:2561 includes/admin.php:369
+msgid "No generator"
+msgstr "No generator"
+
+#: includes/customizer.php:2577
+msgid "No generator tag"
+msgstr "No generator tag"
+
+#: includes/customizer.php:876 includes/customizer.php:892
+#: includes/admin.php:192
+msgid "No howdy"
+msgstr "No generator tag"
+
+#: includes/customizer.php:1953 includes/customizer.php:1969
+#: includes/admin.php:315
+msgid "No lazy loading"
+msgstr "No lazy loading"
+
+#: includes/customizer.php:278
+msgid "No login by email"
+msgstr "No login by email"
+
+#: includes/customizer.php:262 includes/admin.php:120
+msgid "No login by email address"
+msgstr "No login by email address"
+
+#: includes/modules/posts-rename-news.php:52
+msgid "No news found"
+msgstr "No news found"
+
+#: includes/modules/posts-rename-news.php:53
+msgid "No news found in trash"
+msgstr "No news found in trash"
+
+#: includes/customizer.php:2685 includes/customizer.php:2701
+#: includes/admin.php:394
+msgid "No pingbacks"
+msgstr "No pingbacks"
+
+#: includes/customizer.php:2592 includes/customizer.php:2608
+#: includes/admin.php:375
+msgid "No RSD"
+msgstr "No RSD"
+
+#: includes/customizer.php:2654 includes/customizer.php:2670
+#: includes/admin.php:388
+#| msgid "No shortlinks"
+msgid "No shortlink tags"
+msgstr "No shortlink tags"
+
+#: includes/customizer.php:1954 includes/admin.php:316
+#| msgid "Disable WordPress lazy loading"
+msgid "No WordPress lazy loading"
+msgstr "No WordPress lazy loading"
+
+#: includes/customizer.php:1015
+msgid "None"
+msgstr "None"
+
+#: includes/modules/dashnotes.php:51
+msgid "Notes&hellip;"
+msgstr "Notes&hellip;"
+
+#: includes/customizer.php:499
+msgid "Number of bars"
+msgstr "Number of bars"
+
+#: includes/customizer.php:1012
+msgid "Number of Revisions to save"
+msgstr "Number of Revisions to save"
+
+#: includes/customizer.php:2949
+msgid "Opacity %"
+msgstr "Opacity %"
+
+#: includes/customizer.php:551 includes/customizer.php:567
+#: includes/admin.php:150
+msgid "Open site in new tab"
+msgstr "Open site in new tab"
+
+#: includes/customizer.php:2086
+msgid "Padding (px)"
+msgstr "Padding (px)"
+
+#: includes/customizer.php:1423 includes/customizer.php:1439
+#: includes/customizer.php:1454 includes/customizer.php:1470
+#: includes/admin.php:264
+msgid "Page excerpts"
+msgstr "Page excerpts"
+
+#: includes/customizer.php:1325 includes/customizer.php:1341
+#: includes/admin.php:246
+msgid "Page slug body class"
+msgstr "Page slug body class"
+
+#: includes/customizer.php:462 includes/customizer.php:479
+#: includes/admin.php:144
+msgid "Password visualisation"
+msgstr "Password visualisation"
+
+#: includes/admin.php:634
+msgid "Please upload a file to import"
+msgstr "Please upload a file to import"
+
+#: includes/admin.php:628
+msgid "Please upload a valid .json file"
+msgstr "Please upload a valid .json file"
+
+#: includes/customizer.php:2882
+msgid "Polylang"
+msgstr "Polylang"
+
+#: includes/customizer.php:2866 includes/admin.php:427
+msgid "Polylang SVG flags"
+msgstr "Polylang SVG flags"
+
+#: includes/customizer.php:2182
+msgid "Position bottom (px)"
+msgstr "Position bottom (px)"
+
+#: includes/customizer.php:2158
+msgid "Position right (px)"
+msgstr "Position right (px)"
+
+#: includes/customizer.php:1387 includes/admin.php:258
+msgid "Posts"
+msgstr "Posts"
+
+#: includes/customizer.php:1406
+msgid "Posts post type"
+msgstr "Posts post type"
+
+#: includes/customizer.php:738
+msgid "Posts, pages, post types"
+msgstr "Posts, pages, post types"
+
+#: includes/customizer.php:1163 includes/customizer.php:1179
+#: includes/admin.php:222
+msgid "Preloading"
+msgstr "Preloading"
+
+#: includes/customizer.php:1195 includes/admin.php:229
+msgid "Prevent layout shift between long and short pages"
+msgstr "Prevent layout shift between long and short pages"
+
+#: includes/customizer.php:2686 includes/admin.php:395
+msgid "Prevent self pingbacks"
+msgstr "Prevent self pingbacks"
+
+#: includes/customizer.php:2420 includes/admin.php:346
+msgid "Prevent the site from loading inside an external frame or iframe"
+msgstr "Prevent the site from loading inside an external frame or iframe"
+
+#: includes/modules/posts-rename-news.php:127
+#: includes/modules/posts-rename-news.php:137
+#: includes/modules/posts-rename-news.php:146
+msgid "Preview news article"
+msgstr "Preview news article"
+
+#: includes/customizer.php:146 includes/customizer.php:162
+#: includes/admin.php:109
+msgid "Private site"
+msgstr "Private site"
+
+#: includes/customizer.php:642 includes/admin.php:169
+msgid "Rearranges admin menu items: dashboard, pages, posts, media"
+msgstr "Rearranges admin menu items: dashboard, pages, posts, media"
+
+#: includes/customizer.php:2531 includes/admin.php:364
+msgid "Redirect requests for author archives to the homepage"
+msgstr "Redirect requests for author archives to the homepage"
+
+#: includes/customizer.php:147 includes/admin.php:110
+msgid "Redirect unauthenticated visitors to the login page"
+msgstr "Redirect unauthenticated visitors to the login page"
+
+#: includes/customizer.php:1388 includes/admin.php:259
+#| msgid "Keep,remove or rename the posts post type"
+msgid "Remove or rename the posts post type"
+msgstr "Remove or rename the posts post type"
+
+#: includes/customizer.php:1411
+msgid "Remove posts"
+msgstr "Remove posts"
+
+#: includes/customizer.php:673 includes/admin.php:175
+#| msgid "Remove all support for gravatars or user avatars"
+msgid "Remove support for gravatars or user avatars"
+msgstr "Remove support for gravatars or user avatars"
+
+#: includes/customizer.php:2593 includes/admin.php:376
+#| msgid "Remove the RSD (Really Simple Discovery) endpoint"
+msgid "Remove the Really Simple Discovery endpoint"
+msgstr "Remove the Really Simple Discovery endpoint"
+
+#: includes/customizer.php:2624 includes/admin.php:383
+msgid "Remove the RSS, RDF and atom feeds"
+msgstr "Remove the RSS, RDF and atom feeds"
+
+#: includes/customizer.php:2655 includes/admin.php:389
+#| msgid "Remove the short link header tags"
+msgid "Remove the shortlink header tags"
+msgstr "Remove the shortlink header tags"
+
+#: includes/customizer.php:2562 includes/admin.php:370
+msgid "Remove the WordPress generator meta tag"
+msgstr "Remove the WordPress generator meta tag"
+
+#: includes/customizer.php:2500 includes/admin.php:358
+msgid "Removes the theme and plugin editors from admin"
+msgstr "Removes the theme and plugin editors from admin"
+
+#: includes/customizer.php:1410
+#| msgid "Rename posts as news"
+msgid "Rename posts to news"
+msgstr "Rename posts to news"
+
+#: includes/customizer.php:2867 includes/admin.php:428
+msgid "Replace the default bitmap flags in polylang"
+msgstr "Replace the default bitmap flags in polylang"
+
+#: includes/customizer.php:877 includes/admin.php:193
+msgid ""
+"Replace the howdy greeting with a salutation appropriate to the time of day"
+msgstr ""
+"Replace the howdy greeting with a salutation appropriate to the time of day"
+
+#: includes/customizer.php:1357 includes/admin.php:253
+#| msgid "Replace spaces around en-dashes & em-dashes with hairspaces"
+msgid "Replace the spaces around en-dashes & em-dashes with hairspaces"
+msgstr "Replace the spaces around en-dashes & em-dashes with hairspaces"
+
+#: includes/customizer.php:582 includes/admin.php:157
+msgid ""
+"Replace the WP logo in the admin toolbar with the site icon if one is "
+"configured"
+msgstr ""
+"Replace the WP logo in the admin toolbar with the site icon if one is "
+"configured"
+
+#: includes/customizer.php:581 includes/admin.php:156
+msgid "Replace WordPress logo"
+msgstr "Replace WordPress logo"
+
+#: includes/customizer.php:597
+msgid "Replace WP logo"
+msgstr "Replace WP logo"
+
+#: includes/modules/gform-style.php:46
+msgid "Required"
+msgstr "Required"
+
+#: includes/customizer.php:2783 includes/admin.php:415
+msgid "Responsive breakpoints"
+msgstr "Responsive breakpoints"
+
+#: includes/customizer.php:975
+msgid "Revisions"
+msgstr "Revisions"
+
+#: includes/customizer.php:522
+msgid "Salt (random when blank)"
+msgstr "Salt (random when blank)"
+
+#: includes/customizer.php:1225 includes/customizer.php:1241
+#: includes/admin.php:234
+msgid "Scroll to anchor"
+msgstr "Scroll to anchor"
+
+#: includes/customizer.php:1984 includes/customizer.php:2000
+#: includes/admin.php:321
+msgid "Scroll to top"
+msgstr "Scroll to top"
+
+#: includes/modules/posts-rename-news.php:51
+msgid "Search news"
+msgstr "Search news"
+
+#: includes/customizer.php:2752 includes/admin.php:409
+msgid "Search placeholder"
+msgstr "Search placeholder"
+
+#: includes/customizer.php:2768
+msgid "Search placeholder text"
+msgstr "Search placeholder text"
+
+#: includes/customizer.php:2799
+msgid "Set breakpoints"
+msgstr "Set breakpoints"
+
+#: includes/customizer.php:2784 includes/admin.php:416
+msgid "Set custom mobile and tablet breakpoints for the Astra theme"
+msgstr "Set custom mobile and tablet breakpoints for the Astra theme"
+
+#: cubecolour-caboodle.php:75
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/customizer.php:844
+msgid "Show current WP version"
+msgstr "Show current WP version"
+
+#: includes/admin.php:296
+msgid "Show file size in media library"
+msgstr "Show file size in media library"
+
+#: includes/customizer.php:704 includes/customizer.php:720
+#: includes/admin.php:180
+msgid "Show IDs"
+msgstr "Show IDs"
+
+#: includes/customizer.php:1860 includes/customizer.php:1876
+msgid "Show media file size"
+msgstr "Show media file size"
+
+#: includes/customizer.php:1736
+msgid "Show only when hovered"
+msgstr "Show only when hovered"
+
+#: includes/customizer.php:1101 includes/customizer.php:1117
+#: includes/admin.php:210
+msgid "Show settings"
+msgstr "Show settings"
+
+#: includes/customizer.php:845 includes/admin.php:187
+#| msgid ""
+#| "Show the current WP version in the admin footer when an upgrade is "
+#| "available"
+msgid ""
+"Show the current WordPress version in the admin footer when an upgrade is "
+"available"
+msgstr ""
+"Show the current WordPress version in the admin footer when an upgrade is "
+"available"
+
+#: includes/customizer.php:705
+msgid ""
+"Show the ID for posts, pages, custom post types, taxonomies, media and user "
+"IDs in the admin pages"
+msgstr ""
+"Show the ID for posts, pages, custom post types, taxonomies, media and user "
+"IDs in the admin pages"
+
+#: includes/admin.php:181
+msgid ""
+"Show the ID for posts, pages, custom post types, taxonomies, media and users"
+msgstr ""
+"Show the ID for posts, pages, custom post types, taxonomies, media and users"
+
+#: includes/customizer.php:860
+msgid "Show WordPress version"
+msgstr "Show WordPress version"
+
+#: includes/customizer.php:342
+msgid "Single error message"
+msgstr "Single error message"
+
+#: includes/customizer.php:326 includes/admin.php:132
+msgid "Single login error message"
+msgstr "Single login error message"
+
+#: includes/modules/show-site-settings.php:15
+msgid "Site Settings"
+msgstr "Site Settings"
+
+#: includes/customizer.php:1583
+#| msgid "Size (em)"
+msgid "Size (px)"
+msgstr "Size (px)"
+
+#: includes/customizer.php:1226 includes/admin.php:235
+#| msgid ""
+#| "Smoothly animate when clicking a link targetting an anchored position"
+msgid "Smoothly animate when clicking a link targeting an anchored position"
+msgstr "Smoothly animate when clicking a link targeting an anchored position"
+
+#: includes/customizer.php:2973
+msgid "Spacing between flags px"
+msgstr "Spacing between flags px"
+
+#: includes/customizer.php:1164 includes/admin.php:223
+msgid "Speed up browsing between pages"
+msgstr "Speed up browsing between pages"
+
+#: includes/customizer.php:774
+msgid "Taxonomies"
+msgstr "Taxonomies"
+
+#: includes/customizer.php:413 includes/customizer.php:1292
+msgid "Text color"
+msgstr "Text colour"
+
+#: includes/customizer.php:1256 includes/customizer.php:1272
+#: includes/admin.php:240
+msgid "Text selection"
+msgstr "Text selection"
+
+#: includes/admin.php:676
+msgid "The caboodle settings have been imported"
+msgstr "The caboodle settings have been imported"
+
+#: includes/customizer.php:327 includes/admin.php:133
+msgid "The same message for wrong username or wrong password"
+msgstr "The same message for wrong username or wrong password"
+
+#: includes/customizer.php:430
+msgid "Title"
+msgstr "Title"
+
+#: includes/customizer.php:1755
+msgid "Underline Color"
+msgstr "Underline Color"
+
+#: includes/customizer.php:1024
+msgid "Unlimited"
+msgstr "Unlimited"
+
+#: includes/customizer.php:1484 includes/customizer.php:1500
+#: includes/admin.php:270
+msgid "Unlink parent menu items"
+msgstr "Unlink parent menu items"
+
+#: includes/customizer.php:2753 includes/admin.php:410
+msgid "Use translatable default text in Astra theme header cover search"
+msgstr "Use translatable default text in Astra theme header cover search"
+
+#: includes/customizer.php:792
+msgid "Users"
+msgstr "Users"
+
+#: includes/customizer.php:1607
+msgid "Vertical position (px)"
+msgstr "Vertical position (px)"
+
+#: includes/modules/posts-rename-news.php:50
+msgid "View news"
+msgstr "View news"
+
+#: includes/modules/posts-rename-news.php:109
+#: includes/modules/posts-rename-news.php:118
+msgid "View news article"
+msgstr "View news article"
+
+#: includes/customizer.php:1699 includes/customizer.php:1717
+#: includes/admin.php:283
+msgid "Wavy links"
+msgstr "Wavy links"
+
+#: includes/customizer.php:1700
+msgid "Wavy underline for links"
+msgstr "Wavy underline for links"
+
+#. Developer name
+#: includes/modules/devlink.php:30
+#, php-format
+msgid "website by %1$s"
+msgstr "website by %1$s"
+
+#: includes/customizer.php:2342
+msgid "Years shortcode"
+msgstr "Years shortcode"
+
+#: includes/admin.php:536
+#| msgid ""
+#| "The cc_caboodle option containing the array of setting values does not "
+#| "exist"
+msgid ""
+"Yikes! The cc_caboodle option containing the array of setting values does "
+"not exist"
+msgstr ""
+"Yikes! The cc_caboodle option containing the array of setting values does "
+"not exist"

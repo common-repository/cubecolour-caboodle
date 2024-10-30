@@ -1,0 +1,43 @@
+@font-face {
+	font-family: "dashicons-caboodle";
+	src:url("../fonts/dashicons-caboodle.eot");
+	src:url("../fonts/dashicons-caboodle.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/dashicons-caboodle.woff") format("woff"),
+	url("../fonts/dashicons-caboodle.ttf") format("truetype"),
+	font-weight: normal;
+	font-style: normal;
+}
+
+[data-icon]:before {
+	font-family: "dashicons-caboodle" !important;
+	content: attr(data-icon);
+	font-style: normal !important;
+	font-weight: normal !important;
+	font-variant: normal !important;
+	text-transform: none !important;
+	speak: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+[class^="dashicons-caboodle-"]:before,
+[class*="dashicons-caboodle-"]:before {
+	font-family: "dashicons-caboodle" !important;
+	font-style: normal !important;
+	font-weight: normal !important;
+	font-variant: normal !important;
+	text-transform: none !important;
+	speak: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.dashicons-caboodle-news:before {
+	content: "\EB27";
+}
+
+.dashicons-caboodle-x:before {
+	content: "\EB28";
+}

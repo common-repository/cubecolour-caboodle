@@ -1,0 +1,30 @@
+ /**
+ * Section Separators
+ *
+ */
+#accordion-section-cc_caboodle_passvis_section:after,
+#accordion-section-cc_caboodle_new_plugins_section:after,
+#accordion-section-cc_caboodle_extlinks_section:after,
+#accordion-section-cc_caboodle_no_media_attachments_section:after,
+#accordion-section-cc_caboodle_yearsrange_section:after,
+#accordion-section-cc_caboodle_stomp_section:after,
+#accordion-section-cc_caboodle_no_pingbacks_section:after,
+#accordion-section-cc_caboodle_breakpoints_section:after,
+#accordion-section-cc_caboodle_polylang_section:after,
+#accordion-section-cc_caboodle_gform_section:after {
+	content: '';
+	height: 1em;
+	width: 100%;
+	display: block;
+	border-bottom: 1px solid #e0e0e2;
+}
+
+#sub-accordion-section-cc_caboodle_add_image_sizes_section li[id^='customize-control-cc_caboodle_add_image_sizes_']:not(li[id$='_xs']){
+	margin-bottom: -1.667em;
+}
+
+#sub-accordion-section-cc_caboodle_add_image_sizes_section li[id^='customize-control-cc_caboodle_add_image_sizes_'] .customize-control-title {
+	position: relative;
+	top: 0.333em;
+	left: 1em;
+}

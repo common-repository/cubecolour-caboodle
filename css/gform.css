@@ -1,0 +1,14 @@
+.gform-body .gform_fields input,
+.gform-body .gform_fields textarea {
+	border-color: var(--gform-border-color);
+}
+
+.gform-body .gform_fields input:hover,
+.gform-body .gform_fields textarea:hover {
+	border-color: var(--gform-border-color-hover);
+}
+
+.gform-body .gform_fields input:focus,
+.gform-body .gform_fields textarea:focus {
+	border: 1px solid var(--gform-border-color-focus);
+}

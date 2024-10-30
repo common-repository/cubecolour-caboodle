@@ -1,0 +1,52 @@
+@font-face {
+	font-family: 'up';
+	src: url( '../fonts/up.woff' ) format( 'woff' ),
+		url( '../fonts/up.woff2' ) format( 'woff2' );
+	font-weight: normal;
+	font-style: normal;
+}
+
+.scrolltop {
+	border-width: calc( var(--scrolltop-border-width) * 1px );
+	border-style: solid;
+	box-sizing: border-box;
+	color: var(--scrolltop-color);
+	border-color: var(--scrolltop-color);
+	background-color: var(--scrolltop-bg-color);
+	width: calc( var(--scrolltop-size) * 1px );
+	height: calc( var(--scrolltop-size) * 1px );
+	border-radius: calc( var(--scrolltop-radius) * 1% );
+	position: fixed;
+	bottom: calc( var(--scrolltop-bottom) * 1px );
+	right: calc( var(--scrolltop-right) * 1px );
+	padding: calc( var(--scrolltop-padding) * 1px );
+	display: block;
+	cursor: pointer;
+	transform: translateY(100px);
+	opacity: 0;
+	transition: 0;
+	transition: transform 1s ease-in, color 0.5s ease-in, background-color 0.5s ease-in;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	z-index: 999;
+}
+
+.scrolltop:after {
+	font-family: up;
+	content: var(--scrolltop-icon);
+	vertical-align: sub;
+	font-size:  calc( var(--scrolltop-size) * 1px );
+}
+
+.scrolltop:hover {
+	color: var(--scrolltop-color-hover);
+	border-color: var(--scrolltop-color-hover);
+	background-color: var(--scrolltop-bg-color-hover);
+}
+
+.showscrolltop {
+	transform: translateY(0);
+	opacity: 1;
+}
